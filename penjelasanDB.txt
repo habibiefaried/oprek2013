@@ -1,0 +1,10 @@
+1 => Tugas/PR 1
+2 => Tugas/PR 2
+3 => Tugas/PR 3
+4 => Tugas/PR 4
+5 => Tugas Besar
+6 => Tugas Kecil
+7 => Tugas Awal
+8 => TP-1
+9 => TP-2
+10 => TP-3
